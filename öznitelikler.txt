@@ -1,0 +1,30 @@
+1-dikdörtgen 
+->h:yükseklik
+->w:genişlik
+
+h=15
+w=80
+
+h=35
+w=170
+
+2- w ve h değerleri arasında en az 3 kat değer var -> 2 veya 4 kat dicez
+
+3-renk değerleri -> gri = 100> <200
+
+4-20 ,130 - 30,130
+h 50<
+w 150<
+
+5-3,4,5,A,B,C,D karakterlerinin mevcut olması
+
+NOT: ilk 3 değer yeterli olacak olmaz ise 4. olmaz ise 5. dahil edilir
+
+
+-----------------------------------------------------------
+
+1-Dikdörtgenleri tespit et
+2-h,w min oran 3 olmalı
+3-arka plan renk değeri 100<x<200
+4-bout sınırlama 50(h),150(w)
+[x,y,w,h]
